@@ -1,0 +1,23 @@
+.corpo{
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+    border: 10px;
+    border-style: groove;
+    border-color: aquamarine;
+}
+
+p{
+    color: aquamarine;
+    font-size: 20px;
+}
+
+#link{
+    color: crimson;
+    text-decoration: none;
+}
+
+#link:houver{
+    color: cyan;
+    font-size: 15px;
+}
