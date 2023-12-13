@@ -21,3 +21,9 @@ p{
     color: cyan;
     font-size: 15px;
 }
+
+#imagem-estudante{
+    border-style: dotted 10px blue;
+    width: 400px;
+    height: 400px;
+}
